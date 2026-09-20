@@ -1,7 +1,6 @@
 {
     "pack": {
-        "min_format": 121,
-        "max_format": 121,
+        "pack_format": 121,
         "description": "Mode de jeu multijoueur. §6Par LightYT",
     }
 }
