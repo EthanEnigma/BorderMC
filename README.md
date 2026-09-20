@@ -21,7 +21,7 @@
 ## Installation
 
 ### Nouveau monde :
-1. Téléchargez la dernière version du datapack.
+1. Téléchargez la dernière version du datapack et dezippez le.
 2. Dans le menu création du nouveau monde allez dans `Plus`, `Pack de données` ou `Datapacks`, <br> faites `Ouvrir le dossier des packs` et placez le datapack à l'intérieur.
 3. Activez les commandes.
 4. Lancez votre monde.
@@ -29,7 +29,7 @@
 
 ### Monde déjà existant :
 Vous devez avoir l'accès aux commandes pour utiliser le datapack.
-1. Téléchargez la dernière version du datapack.
+1. Téléchargez la dernière version du datapack et dezippez le.
 2. Placez le datapack dans le dossier `datapacks` de votre monde :
    - `.minecraft/saves/<nom_du_monde>/datapacks/`
 3. Lancez votre monde.
