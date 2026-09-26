@@ -14,7 +14,7 @@
 
 ## Version Compatible
 
-- **Minecraft Java Edition :** `23.6`
+- **Minecraft Java Edition :** `26.3`
 
 ---
 
